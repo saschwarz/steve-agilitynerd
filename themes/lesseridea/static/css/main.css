@@ -291,7 +291,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	
 	/* Social */
 	#extras .social {
-		float: right;
+		float: left;
 		width: 175px;
 	}
 	
@@ -410,6 +410,7 @@ article p, article ul {
 	#about-author .photo {border: 1px solid #ddd; float: left; margin: 5px 1em 0 0;}
 	
 	/* Comments */
+        .comments {margin-top: 2em;}
 	#comments-list {list-style: none; margin: 0 1em;}
 	#comments-list blockquote {
 		background: #f8f8f8;

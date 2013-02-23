@@ -14,5 +14,8 @@ DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line for absolute URLs in production:
 RELATIVE_URLS = False
 
+FEED_DOMAIN = SITEURL
+FEED_ALL_RSS = 'feeds/all.rss'
+
 DISQUS_SITENAME = "steveagilitynerd"
 GOOGLE_ANALYTICS = "UA-1127677-9"

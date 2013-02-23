@@ -13,7 +13,7 @@ DEFAULT_LANG = u'en'
 LINKS =  ()
 
 # Social widget
-SOCIAL = (('', '#'),)
+#SOCIAL = (('', '#'),)
 
 DEFAULT_PAGINATION = 5
 
