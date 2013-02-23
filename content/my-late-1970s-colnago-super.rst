@@ -12,17 +12,13 @@ money I earned on bike parts. During that time I built my dream bike:
 
 .. raw:: html
 
-   <div class="p_embed p_image_embed">
+   <div class="thumbnail">
 
 |Img_0906| |Img_0864-1| |Img_0867-1| |Img_0869-1| |Img_0870-1| |Img_0871-1| |Img_0872-1| |Img_0874-1| |Img_0873-1| |Img_0877-1| |Img_0878-1| |Img_0879-1| |Img_0880-1| |Img_0882-1| |Img_0881-1| |Img_0884-1| |Img_0887-1| |Img_0888-1| |Img_0890-1| |Img_0891-1| |Img_0892-1| |Img_0893-1|
 
 .. raw:: html
 
    </div>
-
-.. raw:: html
-
-   </p>
 
 I can't remember when I bought the frame, it was 77 or 78. The bike has
 had a number of mods over it's lifetime. I built several sets of wheels
@@ -68,10 +64,6 @@ I took it for a quick spin around the block probably five years ago and
 I still love how stiff it is for a large steel tube frame. Each push of
 the pedals and the bike lept foward. Thinking about it almost makes me
 want to do the overhaul and ride it again...
-
-.. raw:: html
-
-   </p>
 
 .. |Img_0906| image::   /static/images/img_0906.jpg
 .. |Img_0864-1| image:: /static/images/img_0864-1.jpg

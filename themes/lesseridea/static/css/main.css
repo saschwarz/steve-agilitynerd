@@ -361,7 +361,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 .entry-title a:visited {background-color: #fff;}
 .entry-title a:hover {color: #C74350;}
 
-article p {
+article p, article ul {
     font-family: sans-serif;
     font-weight: lighter;
     line-height:1.6em;
