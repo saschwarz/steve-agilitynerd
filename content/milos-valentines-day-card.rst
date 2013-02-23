@@ -9,7 +9,7 @@ Milo's Valentine's Day Card
 
 .. raw:: html
 
-   <div class="thumbnail">
+   <div class="thumbnail clear">
 
 |2012milovalentine001|
 
