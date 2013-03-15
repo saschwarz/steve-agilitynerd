@@ -11,10 +11,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=agilitynerd.com
-SSH_PORT=31202
-SSH_USER=saschwarz
-SSH_TARGET_DIR=/home/saschwarz/public_html/steve.agilitynerd.com/public
+SSH_HOST=
+SSH_PORT=
+SSH_USER=
+SSH_TARGET_DIR=
 
 DROPBOX_DIR=~/Dropbox/Public/
 
