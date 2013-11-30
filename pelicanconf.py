@@ -22,6 +22,3 @@ STATIC_PATHS = ['images']
 THEME = './themes/lesseridea'
 
 SUMMARY_MAX_LENGTH = 30
-
-
-
