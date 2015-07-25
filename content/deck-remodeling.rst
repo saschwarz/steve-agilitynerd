@@ -1,7 +1,7 @@
 =================
  Deck Remodeling
 =================
-:date: 2015-07-11 14:00
+:date: 2015-07-24 14:00
 :author: Steve Schwarz
 :category: Projects
 :tags: remodeling, decks
