@@ -7,15 +7,6 @@ Stolen license plate
 
 Zoof is Nancy's nickname for me. We were stunned when we saw this car in the Woodfield shopping center parking lot!
 
-.. raw:: html
-
-   <div class="thumbnail">
-
-|780365589|
-
-.. raw:: html
-
-   </div>
-
-.. |780365589| image:: /static/images/780365589.jpg
-
+.. class:: thumbnail
+.. figure:: {filename}/images/780365589.jpg
+   :alt: Photo of a license plate: ZOOF

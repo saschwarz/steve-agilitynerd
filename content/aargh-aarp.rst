@@ -7,15 +7,6 @@ AARGH AARP
 
 I always dreaded getting this in the mail...
 
-.. raw:: html
-
-   <div class="thumbnail">
-
-|1578470449|
-
-.. raw:: html
-
-   </div>
-
-.. |1578470449| image:: /static/images/1578470449.jpg
-
+.. class:: thumbnail
+.. figure:: {filename}/images/1578470449.jpg
+   :alt: Photo of an AARP application

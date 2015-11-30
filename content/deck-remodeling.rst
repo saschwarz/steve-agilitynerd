@@ -129,23 +129,23 @@ Then the wait was on for a dry day that wasn't too hot - I guessed right and eve
 I think it looks pretty good!
 
 
-.. |before-west| image:: /static/images/deck/before-west.jpg
-.. |before-north-1| image:: /static/images/deck/before-north-1.jpg
-.. |before-north-2| image:: /static/images/deck/before-north-2.jpg
-.. |before-stairs| image:: /static/images/deck/before-stairs.jpg
-.. |before-east| image:: /static/images/deck/before-east.jpg
-.. |before-deck| image:: /static/images/deck/before-deck.jpg
-.. |construction-west| image:: /static/images/deck/construction-west.jpg
-.. |construction-nw| image:: /static/images/deck/construction-nw.jpg
-.. |new-posts| image:: /static/images/deck/new-posts.jpg
-.. |rebuilt-planter| image:: /static/images/deck/rebuilt-planter.jpg
-.. |construction-posts| image:: /static/images/deck/construction-posts.jpg
-.. |construction-east| image:: /static/images/deck/construction-east.jpg
-.. |railings-west| image:: /static/images/deck/railings-west.jpg
-.. |railings-southeast| image:: /static/images/deck/railings-southeast.jpg
-.. |railings-east| image:: /static/images/deck/railings-east.jpg
-.. |railings-deck| image:: /static/images/deck/railings-deck.jpg
-.. |deck-stain-colors| image:: /static/images/deck/deck-stain-colors.jpg
-.. |stained-west| image:: /static/images/deck/stained-west.jpg
-.. |stained-east| image:: /static/images/deck/stained-east.jpg
-.. |stained-deck| image:: /static/images/deck/stained-deck.jpg
+.. |before-west| image:: /images/deck/before-west.jpg
+.. |before-north-1| image:: /images/deck/before-north-1.jpg
+.. |before-north-2| image:: /images/deck/before-north-2.jpg
+.. |before-stairs| image:: /images/deck/before-stairs.jpg
+.. |before-east| image:: /images/deck/before-east.jpg
+.. |before-deck| image:: /images/deck/before-deck.jpg
+.. |construction-west| image:: /images/deck/construction-west.jpg
+.. |construction-nw| image:: /images/deck/construction-nw.jpg
+.. |new-posts| image:: /images/deck/new-posts.jpg
+.. |rebuilt-planter| image:: /images/deck/rebuilt-planter.jpg
+.. |construction-posts| image:: /images/deck/construction-posts.jpg
+.. |construction-east| image:: /images/deck/construction-east.jpg
+.. |railings-west| image:: /images/deck/railings-west.jpg
+.. |railings-southeast| image:: /images/deck/railings-southeast.jpg
+.. |railings-east| image:: /images/deck/railings-east.jpg
+.. |railings-deck| image:: /images/deck/railings-deck.jpg
+.. |deck-stain-colors| image:: /images/deck/deck-stain-colors.jpg
+.. |stained-west| image:: /images/deck/stained-west.jpg
+.. |stained-east| image:: /images/deck/stained-east.jpg
+.. |stained-deck| image:: /images/deck/stained-deck.jpg

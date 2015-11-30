@@ -7,17 +7,11 @@ Ai Weiwei Sunflower Seeds
 :summary: My birthday present from Nancy was something I was thrilled to get: some Ai Weiwei Sunflower seeds.
 
 
-My birthday present this year from Nancy was something I was thrilled to get: some Ai Weiwei Sunflower seeds. Earlier this year I saw `this fascinating documentary (now on YouTube) <http://youtu.be/gcRodOfu_s8>`_ about this unique Chinese modern artist and social/political critic (`Ai Weiwei on wikipedia <http://en.wikipedia.org/wiki/Ai_Weiwei>`_). 
+My birthday present this year from Nancy was something I was thrilled to get: some Ai Weiwei Sunflower seeds. Earlier this year I saw `this fascinating documentary (now on YouTube) <http://youtu.be/gcRodOfu_s8>`_ about this unique Chinese modern artist and social/political critic (`Ai Weiwei on wikipedia <http://en.wikipedia.org/wiki/Ai_Weiwei>`_).
 
-.. raw:: html
-
-   <div class="thumbnail">
-
-|AiWeiWeiSunflowerSeeds|
-
-.. raw:: html
-
-   </div>
+.. class:: thumbnail
+.. figure:: {filename}/images/AiWeiWeiSunflowerSeeds.jpg
+   :alt: Photo of my Ai Weiwei sunflower seeds
 
 I was captivated by his `Sunflower Seeds installation at the Tate Modern in London <http://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-ai-weiwei-sunflower-seeds>`_ when it was presented in film. The use of millions of Chinese porcelan sunflower seeds, craftsman produced and each unique, brilliantly captures our conflicting views of China and it's people. My description doesn't really do the exhibition justice. Here is an excerpt from `the Tate's interpretation text <http://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-ai-weiwei/interpretation-text>`_:
 
@@ -25,6 +19,3 @@ I was captivated by his `Sunflower Seeds installation at the Tate Modern in Lond
 
 
 I was surprised to see that many of the seeds are available for purchase after the close of the exhibition. I mentioned that to Nancy and the rest is birthday history. It is great to have a few little pieces of this monumental installation.
-
-
-.. |AiWeiWeiSunflowerSeeds| image:: /static/images/AiWeiWeiSunflowerSeeds.jpg

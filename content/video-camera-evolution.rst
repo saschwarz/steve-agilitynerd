@@ -13,18 +13,9 @@ surprised at how small it is!
 I dug out my first camcorder (which I still have for some reason...) and
 took this picture of the AgilityNerd video recorder evolution.
 
-.. raw:: html
-
-   <div class="thumbnail">
-
-|1578470442|
-
-.. raw:: html
-
-   </div>
+.. class:: thumbnail
+.. figure:: {filename}/images/1578470442.jpg
+   :alt: Photo of three of my old camcorders
 
 I'll give it a try at the agility trial this weekend and see how it
 works...
-
-.. |1578470442| image:: /static/images/1578470442.jpg
-

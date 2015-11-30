@@ -65,27 +65,25 @@ I still love how stiff it is for a large steel tube frame. Each push of
 the pedals and the bike lept foward. Thinking about it almost makes me
 want to do the overhaul and ride it again...
 
-.. |Img_0906| image::   /static/images/img_0906.jpg
-.. |Img_0864-1| image:: /static/images/img_0864-1.jpg
-.. |Img_0867-1| image:: /static/images/img_0867-1.jpg
-.. |Img_0869-1| image:: /static/images/img_0869-1.jpg
-.. |Img_0870-1| image:: /static/images/img_0870-1.jpg
-.. |Img_0871-1| image:: /static/images/img_0871-1.jpg
-.. |Img_0872-1| image:: /static/images/img_0872-1.jpg
-.. |Img_0874-1| image:: /static/images/img_0874-1.jpg
-.. |Img_0873-1| image:: /static/images/img_0873-1.jpg
-.. |Img_0877-1| image:: /static/images/img_0877-1.jpg
-.. |Img_0878-1| image:: /static/images/img_0878-1.jpg
-.. |Img_0879-1| image:: /static/images/img_0879-1.jpg
-.. |Img_0880-1| image:: /static/images/img_0880-1.jpg
-.. |Img_0882-1| image:: /static/images/img_0882-1.jpg
-.. |Img_0881-1| image:: /static/images/img_0881-1.jpg
-.. |Img_0884-1| image:: /static/images/img_0884-1.jpg
-.. |Img_0887-1| image:: /static/images/img_0887-1.jpg
-.. |Img_0888-1| image:: /static/images/img_0888-1.jpg
-.. |Img_0890-1| image:: /static/images/img_0890-1.jpg
-.. |Img_0891-1| image:: /static/images/img_0891-1.jpg
-.. |Img_0892-1| image:: /static/images/img_0892-1.jpg
-.. |Img_0893-1| image:: /static/images/img_0893-1.jpg
-
-
+.. |Img_0906| image::   /images/img_0906.jpg
+.. |Img_0864-1| image:: /images/img_0864-1.jpg
+.. |Img_0867-1| image:: /images/img_0867-1.jpg
+.. |Img_0869-1| image:: /images/img_0869-1.jpg
+.. |Img_0870-1| image:: /images/img_0870-1.jpg
+.. |Img_0871-1| image:: /images/img_0871-1.jpg
+.. |Img_0872-1| image:: /images/img_0872-1.jpg
+.. |Img_0874-1| image:: /images/img_0874-1.jpg
+.. |Img_0873-1| image:: /images/img_0873-1.jpg
+.. |Img_0877-1| image:: /images/img_0877-1.jpg
+.. |Img_0878-1| image:: /images/img_0878-1.jpg
+.. |Img_0879-1| image:: /images/img_0879-1.jpg
+.. |Img_0880-1| image:: /images/img_0880-1.jpg
+.. |Img_0882-1| image:: /images/img_0882-1.jpg
+.. |Img_0881-1| image:: /images/img_0881-1.jpg
+.. |Img_0884-1| image:: /images/img_0884-1.jpg
+.. |Img_0887-1| image:: /images/img_0887-1.jpg
+.. |Img_0888-1| image:: /images/img_0888-1.jpg
+.. |Img_0890-1| image:: /images/img_0890-1.jpg
+.. |Img_0891-1| image:: /images/img_0891-1.jpg
+.. |Img_0892-1| image:: /images/img_0892-1.jpg
+.. |Img_0893-1| image:: /images/img_0893-1.jpg

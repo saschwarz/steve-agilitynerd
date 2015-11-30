@@ -3,8 +3,7 @@
 
 AUTHOR = u'Steve Schwarz'
 SITENAME = u'steve.agilitynerd.com'
-#SITEURL = 'http://steve.agilitynerd.com'
-SITEURL = 'http://saschwarz.github.io/steve-agilitynerd'
+SITEURL = 'http://127.0.0.1:8000'
 
 TIMEZONE = 'America/Chicago'
 

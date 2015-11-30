@@ -8,15 +8,6 @@ Coolest Christmas Present
 
 Nancy got me this present for Christmas! I laughed out loud!
 
-.. raw:: html
-
-   <div class="thumbnail">
-
-|780365587|
-
-.. raw:: html
-
-   </div>
-
-
-.. |780365587| image:: /static/images/780365587.jpg
+.. class:: thumbnail
+.. figure:: {filename}/images/780365587.jpg
+   :alt: Image of a Charlie Brown Christmas tree

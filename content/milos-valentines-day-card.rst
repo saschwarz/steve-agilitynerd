@@ -7,15 +7,9 @@ Milo's Valentine's Day Card
 
 `Milo`_ gave me this Valentine's day card:
 
-.. raw:: html
-
-   <div class="thumbnail clear">
-
-|2012milovalentine001|
-
-.. raw:: html
-
-   </div>
+.. class:: thumbnail
+.. figure:: {filename}/images/2012milovalentine001.jpg
+   :alt: Cartoon of a border collie asking for a chocolate covered tennis ball
 
 Actually Nancy modified the original card which had a picture of a
 generic brown dog. Through careful application of whiteout and black
@@ -26,5 +20,3 @@ I know Milo would share his chocolate covered tennis ball with me; or at
 least drop the juicy, chocolately mess in my lap...
 
 .. _Milo: http://agilitynerd.com/blog/static/Milo.html
-
-.. |2012milovalentine001| image:: /static/images/2012milovalentine001.jpg
