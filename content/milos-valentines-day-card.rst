@@ -19,4 +19,4 @@ like Milo.
 I know Milo would share his chocolate covered tennis ball with me; or at
 least drop the juicy, chocolately mess in my lap...
 
-.. _Milo: http://agilitynerd.com/blog/static/Milo.html
+.. _Milo: https://agilitynerd.com/blog/static/Milo.html

@@ -35,7 +35,7 @@ So rather than repair the railings I decided to replace them.
 
 I also decided to remove the set of stairs straight out from the sliding doors. It was only used by the dogs for leaping off into the yard. It's brick landing area also took a three foot by three foot section out of my lawn. The removal of the stairs also simplified the layout/installation of the new railings and reduced the cost of materials too.
 
-After a fair amount of searching I went with `Timbertech Evolutions Rail <http://timbertech.com/products/evolutions-rail-contemporary>`_ composite railings with stainless steel cables. I liked that the top rail was continuous and there are no posts sticking up.
+After a fair amount of searching I went with `Timbertech Evolutions Rail <https://timbertech.com/products/evolutions-rail-contemporary>`_ composite railings with stainless steel cables. I liked that the top rail was continuous and there are no posts sticking up.
 
 I used their online design tool and it calculated way too many sets of cable connection kits (which are almost the most expensive part of the decking!) and too many stair "kits" for my two step stairs. IIRC the Home Depot bill would have been $9,000 for 60 ft of railing! After figuring out I could run the cables through the posts and only needed 3 sets of connectors and fewer stair railing kits I got the material price down to around $3,500.
 

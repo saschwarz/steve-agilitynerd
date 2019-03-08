@@ -6,13 +6,13 @@
 :category: Stuff
 :tags: dogs, floor
 
-Five or so years ago I put in `FLOR <http://www.flor.com>`_ carpet tiles in my living room. I liked the color scheme and figured they would be long lasting. I installed them as a floating floor - the oak floor is visible around the edges of the carpet.
+Five or so years ago I put in `FLOR <https://www.flor.com>`_ carpet tiles in my living room. I liked the color scheme and figured they would be long lasting. I installed them as a floating floor - the oak floor is visible around the edges of the carpet.
 
 
 .. raw:: html
 
   <div class="thumbnail clear">
-  <a href="http://www.flickr.com/photos/37642750@N00/8539276253/" title="FLOR House Pet in the Living Room by mrpandmilo, on Flickr"><img src="http://farm9.staticflickr.com/8384/8539276253_d02ebdcfd6.jpg" width="500" height="334" alt="FLOR House Pet in the Living Room"></a>
+  <a href="https://www.flickr.com/photos/37642750@N00/8539276253/" title="FLOR House Pet in the Living Room by mrpandmilo, on Flickr"><img src="https://farm9.staticflickr.com/8384/8539276253_d02ebdcfd6.jpg" width="500" height="334" alt="FLOR House Pet in the Living Room"></a>
   </div>
 
 
