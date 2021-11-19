@@ -10,7 +10,7 @@ Ai Weiwei Sunflower Seeds
 My birthday present this year from Nancy was something I was thrilled to get: some Ai Weiwei Sunflower seeds. Earlier this year I saw `this fascinating documentary (now on YouTube) <https://youtu.be/gcRodOfu_s8>`_ about this unique Chinese modern artist and social/political critic (`Ai Weiwei on wikipedia <https://en.wikipedia.org/wiki/Ai_Weiwei>`_).
 
 .. class:: thumbnail
-.. figure:: {filename}/images/AiWeiWeiSunflowerSeeds.jpg
+.. figure:: {static}/images/AiWeiWeiSunflowerSeeds.jpg
    :alt: Photo of my Ai Weiwei sunflower seeds
 
 I was captivated by his `Sunflower Seeds installation at the Tate Modern in London <https://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-ai-weiwei-sunflower-seeds>`_ when it was presented in film. The use of millions of Chinese porcelan sunflower seeds, craftsman produced and each unique, brilliantly captures our conflicting views of China and it's people. My description doesn't really do the exhibition justice. Here is an excerpt from `the Tate's interpretation text <https://www.tate.org.uk/whats-on/tate-modern/exhibition/unilever-series-ai-weiwei/interpretation-text>`_:

@@ -9,5 +9,5 @@ Coolest Christmas Present
 Nancy got me this present for Christmas! I laughed out loud!
 
 .. class:: thumbnail
-.. figure:: {filename}/images/780365587.jpg
+.. figure:: {static}/images/780365587.jpg
    :alt: Image of a Charlie Brown Christmas tree

@@ -8,7 +8,7 @@ Milo's Valentine's Day Card
 `Milo`_ gave me this Valentine's day card:
 
 .. class:: thumbnail
-.. figure:: {filename}/images/2012milovalentine001.jpg
+.. figure:: {static}/images/2012milovalentine001.jpg
    :alt: Cartoon of a border collie asking for a chocolate covered tennis ball
 
 Actually Nancy modified the original card which had a picture of a

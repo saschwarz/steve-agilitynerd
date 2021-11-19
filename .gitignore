@@ -1,3 +1,4 @@
+.python-version
 *.pid
 .DS_Store
 output

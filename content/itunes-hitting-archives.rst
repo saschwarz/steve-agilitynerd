@@ -11,7 +11,7 @@ I have about 7,000 songs in my iTunes music collection and I've always been disa
 If you haven't used Smart Playlists before here are `Apple's instructions for creating a Smart Playlist <https://support.apple.com/kb/PH19487?locale=en_US>`_. Once you create a new one you can configure it like I have below:
 
 .. class:: thumbnail
-.. figure:: {filename}/images/iTunesNeverPlayed.png
+.. figure:: {static}/images/iTunesNeverPlayed.png
    :alt: Image of the iTunes SmartPlaylist configuration
 
 
@@ -30,7 +30,7 @@ Of course you can adjust this playlist or make others like it to fit your needs.
 If you like to use stars/ratings to create playlists of your favorites you could create a Smart Playlist to find tracks played less than 5 times and not yet rated:
 
 .. class:: thumbnail
-.. figure:: {filename}/images/iTunesUnratedRarelyPlayed.png
+.. figure:: {static}/images/iTunesUnratedRarelyPlayed.png
    :alt: Image of the iTunes SmartPlaylist configuration
 
 I hope this gives you some ideas for how to use Smart Playlists to explore your music collection!

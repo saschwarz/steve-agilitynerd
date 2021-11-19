@@ -8,5 +8,5 @@ AARGH AARP
 I always dreaded getting this in the mail...
 
 .. class:: thumbnail
-.. figure:: {filename}/images/1578470449.jpg
+.. figure:: {static}/images/1578470449.jpg
    :alt: Photo of an AARP application
